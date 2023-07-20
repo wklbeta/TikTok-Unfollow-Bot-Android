@@ -15,8 +15,8 @@ Unfollowing on TikTok with Python Script
 - Operating System Support: Windows/Mac/Linux
 - Phone Requirements: Android
 - TikTok Android versions that passed the test: 30.4.x
-- ADB needs to be installed and placed in the environment directory.
-- Python3 needs to be installed and placed in the environment directory (Mac is pre-installed, Windows needs to be installed manually).
+- [ADB](https://developer.android.com/studio/releases/platform-tools) needs to be installed and placed in the environment directory.
+- Python3 needs to be installed and placed in the environment directory (Mac is pre-installed, Windows needs to be installed [manually](https://www.python.org/downloads/)).
 
 # Pages that support unfollowing
 
