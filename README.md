@@ -1,6 +1,9 @@
 # TikTok-Unfollow-Bot-Android
 Unfollowing on TikTok with Python Script
 
+# Demo
+![demo](demo.gif)
+
 # Features
 
 - The code is concise, operates purely locally, and protects your privacy.
