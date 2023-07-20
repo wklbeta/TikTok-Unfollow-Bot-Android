@@ -35,3 +35,7 @@ Unfollowing on TikTok with Python Script
 - On Mac, open "Terminal"; or on Windows, open "Command Prompt": Windows key + R > type "cmd" > press Enter.
 - Navigate to the root directory of the project: in the "Terminal" or "Command Prompt" window, type "cd + space," then drag the project directory into the window with the mouse, and press Enter.
 - In the "Terminal" or "Command Prompt" window, type "python3 unfollow.py" and press Enter.
+
+# By me a coffee
+
+<img src="./bmc_qr.png" alt="BMC_QR_Code" height="400px" />
