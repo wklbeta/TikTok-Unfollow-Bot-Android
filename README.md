@@ -29,8 +29,8 @@ Unfollowing on TikTok with Python Script
 - Open the TikTok App.
 - Enter the page of people you are following.
 - Connect your Android phone to your computer via USB.
-- Enable "Developer Options" on your Android phone: usually located in Settings > About Phone > Software Information > Version Number. Tap the version number seven times in a row, and it will prompt you that you have successfully enabled developer options.
-- On your Android phone, open "Advanced Settings" > "Developer Options" > "USB Debugging."
+- Enable "Developer Options" on your Android phone: usually located in Settings > About Phone > Software Information > Version Number. Tap the version number seven times in a row, and it will prompt you that you have successfully enabled developer options. [see more](https://developer.android.com/studio/debug/dev-options#enable)
+- On your Android phone, open "Advanced Settings" > "Developer Options" > "USB Debugging." [see more](https://developer.android.com/studio/debug/dev-options#Enable-debugging)
 - On the pop-up window on your phone, confirm that you want to enable debugging and trust the current computer.
 - On Mac, open "Terminal"; or on Windows, open "Command Prompt": Windows key + R > type "cmd" > press Enter.
 - Navigate to the root directory of the project: in the "Terminal" or "Command Prompt" window, type "cd + space," then drag the project directory into the window with the mouse, and press Enter.
